@@ -1,4 +1,5 @@
 <template>
+
   <section class="home">
     <section class="home-top-header flex column center">
       <div class="search-box flex column center">
